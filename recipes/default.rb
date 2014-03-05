@@ -17,3 +17,5 @@ end
 gem_package "kitchen-vagrant" do
 end
 
+gem_package "vagrant-berkshelf" do 
+end
