@@ -6,3 +6,14 @@
 # 
 # All rights reserved - Do Not Redistribute
 #
+
+
+gem_package "berkshelf" do
+end
+
+gem_package "test-kitchen" do
+end
+
+gem_package "kitchen-vagrant" do
+end
+
